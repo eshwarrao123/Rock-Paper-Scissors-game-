@@ -3,7 +3,7 @@ In this project, let's build a **Rock Paper Scissors** by applying the concepts 
 ### Refer to the image below:
 
 <br/>
-PROJECT URL: 
+PROJECT URL: https://myrpsgame007.ccbp.tech/
 <br/>
 
 ### Design Files
